@@ -19,9 +19,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+option {
+  @apply bg-white/10;
 }
 
 @media (min-width: 300px) {
