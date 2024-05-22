@@ -22,7 +22,7 @@ body {
 }
 
 option {
-  @apply bg-white/10;
+  @apply bg-gray-700 text-white;
 
   appearance: none;
   -webkit-appearance: none;
